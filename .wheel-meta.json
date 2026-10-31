@@ -1,0 +1,22 @@
+{
+  "wheel_id": 575,
+  "structure": "umbrella",
+  "slug": "solicitorsaustralia-151",
+  "project": "family-lawyers-brisbane-common-mistakes-2e08fe6e7fd144276aed1ae",
+  "parent_t1_ref": "solicitorsaustralia-010",
+  "node_role": "buffer",
+  "money_target": "solicitorsaustralia.com.au",
+  "primary_kw": "family lawyers brisbane common mistakes",
+  "intended_url": "http://family-lawyers-brisbane-common-mistakes-2e08fe6e7fd144276aed1ae.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "0dfa028c64a04f51",
+  "links": [
+    {
+      "target_url": "https://family-lawyers-brisbane-solicitorsaustralia-010-91dccb.gitlab.io/",
+      "anchor": "Family Lawyers Brisbane: A Careful Enquiry Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
